@@ -1,0 +1,2 @@
+# scirpt
+ada deh
